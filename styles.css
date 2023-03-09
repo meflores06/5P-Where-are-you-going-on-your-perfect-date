@@ -1,0 +1,44 @@
+body {
+    font-family: 'Shantell Sans', sans-serif;
+    background-color: #fccffb;
+    text-align: center;
+    color:black;
+}
+
+
+img {
+    width: 400px; 
+}
+
+
+.questions1 {
+   display:none; 
+}
+
+.question2 {
+    display:none;
+}
+
+.button {
+   display:none;
+}
+
+.r1 {
+    display:none;
+}
+
+.walk {
+    display:none;
+}
+
+.beach {
+    display:none;
+}
+
+.movie{
+    display:none;
+}
+
+.park {
+    display:none;
+}
